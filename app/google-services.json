@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "602829738171",
+    "project_id": "firebase-truthfinder"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602829738171:android:39ab09c1c09b8dfb",
+        "android_client_info": {
+          "package_name": "com.login_signup_screendesign_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602829738171-of1asj2hgmh5vr5n05masuq9k731p9ch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.login_signup_screendesign_demo",
+            "certificate_hash": "cb4e2db5940598ffdcdb22011c9204ec0a113fb1"
+          }
+        },
+        {
+          "client_id": "602829738171-skhg5if68pqfb04u19jg9cf41qlburt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyc-JNdpYMQkgzoBosgq1HAcU6Vmrxa-E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

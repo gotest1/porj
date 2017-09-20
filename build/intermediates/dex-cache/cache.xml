@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nagendra\Documents\porj_ui\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="312b2369b36195f8a62ad0432de28621da2d9689">
+        <dex dex="C:\Users\Nagendra\Documents\porj_ui\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e5b1ca84e5361c44f640db4542b7cc4c38c290da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nagendra\.android\build-cache\f7a9ac12dfb570a8ad063e199fa2e94b1f8b0a01\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="C:\Users\Nagendra\Documents\porj_ui\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d36b0c58e7a71dc89ed6cb70b0be0a09d7cc0e92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nagendra\.android\build-cache\e279411e0c4acc4c55d3865a8411d8502cf0676a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="C:\Users\Nagendra\Documents\porj_ui\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f5c10175721f198789eab4871d76086717f75495\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nagendra\.android\build-cache\bf7f9dc7b504621a88f1185ef41aa9196fdca846\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="C:\Users\Nagendra\Documents\porj_ui\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08e96c932a7fb7d6941e4da1d682b25d43e799f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nagendra\.android\build-cache\e81ebacca197aa1460d7266e536977e83d85d8a8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="C:\Users\Nagendra\Documents\porj_ui\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2266568a648067382f33abff4a4939eaf6d8567a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nagendra\.android\build-cache\da297b04c15a0ded9b88e41138a9d8547cd59679\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Nagendra\Documents\porj_ui\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_852936de6411d84ec24392c0e1cf78b3cddf064e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nagendra\.android\build-cache\da297b04c15a0ded9b88e41138a9d8547cd59679\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Nagendra\Documents\porj_ui\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d421d21eabff09f6d7e3c3903d9f61186c4aa444\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nagendra\.android\build-cache\b636b35212ddbc28bfe90da787a9408ad11e0f59\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="C:\Users\Nagendra\Documents\porj_ui\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43337e45a29946ee15687d0000291c45547a1fed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nagendra\.android\build-cache\4ab3704866ed3d96bb1a04fc387b46b108a1bd6e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="C:\Users\Nagendra\Documents\porj_ui\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e2b9a32c555aa520a421ade79c42e4c2f7e4ccb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nagendra\Documents\porj_ui\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Nagendra\Documents\porj_ui\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c7d9503dee8b5e05caecb476bfa8cc79f49c5f3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nagendra\.android\build-cache\cc309ca492ed756ed57d8e44e353fb79377552d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="C:\Users\Nagendra\Documents\porj_ui\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d256ef6b0aaf4f708a40f655a6d9dbd73fc603c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nagendra\.android\build-cache\402cecae94f73e9af8cb1baa183968ca9bd97a75\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="C:\Users\Nagendra\Documents\porj_ui\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1626072cd8dd8d9cecee04a15256782d4afcee6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nagendra\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Nagendra\Documents\porj_ui\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_b154453ae7d1dd13ece7a6e1f913ee014b6c08d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="C:\Users\Nagendra\Documents\porj_ui\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c1833b9d478941298a72e78ae6072770fce29655\classes.dex" />
+    </item>
+
+</items>

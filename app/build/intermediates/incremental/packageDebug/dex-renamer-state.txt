@@ -1,0 +1,7 @@
+#Tue Sep 19 23:52:13 IST 2017
+base.0=C\:\\Users\\Nagendra\\Documents\\porj_ui\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c7d9503dee8b5e05caecb476bfa8cc79f49c5f3c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Nagendra\\Documents\\porj_ui\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e5b1ca84e5361c44f640db4542b7cc4c38c290da\\classes.dex
+base.1=C\:\\Users\\Nagendra\\Documents\\porj_ui\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e5b1ca84e5361c44f640db4542b7cc4c38c290da
+file.0=C\:\\Users\\Nagendra\\Documents\\porj_ui\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c7d9503dee8b5e05caecb476bfa8cc79f49c5f3c\\classes.dex

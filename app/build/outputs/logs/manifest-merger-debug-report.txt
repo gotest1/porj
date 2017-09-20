@@ -1,0 +1,217 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Nagendra\.android\build-cache\45f484e592a63a89db37646aada791b6c97871ef\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Nagendra\.android\build-cache\cc309ca492ed756ed57d8e44e353fb79377552d9\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.2.1] C:\Users\Nagendra\.android\build-cache\4ab3704866ed3d96bb1a04fc387b46b108a1bd6e\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Nagendra\.android\build-cache\402cecae94f73e9af8cb1baa183968ca9bd97a75\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-core:9.2.1] C:\Users\Nagendra\.android\build-cache\3079d1e2096418d15a56e70c34cc1ad94684bcf8\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Nagendra\.android\build-cache\f7a9ac12dfb570a8ad063e199fa2e94b1f8b0a01\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Nagendra\.android\build-cache\e81ebacca197aa1460d7266e536977e83d85d8a8\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Nagendra\.android\build-cache\b636b35212ddbc28bfe90da787a9408ad11e0f59\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] C:\Users\Nagendra\.android\build-cache\bf7f9dc7b504621a88f1185ef41aa9196fdca846\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Nagendra\.android\build-cache\e279411e0c4acc4c55d3865a8411d8502cf0676a\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Nagendra\.android\build-cache\da297b04c15a0ded9b88e41138a9d8547cd59679\output\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Nagendra\.android\build-cache\f7a9ac12dfb570a8ad063e199fa2e94b1f8b0a01\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Nagendra\.android\build-cache\e81ebacca197aa1460d7266e536977e83d85d8a8\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml:10:22-64
+application
+ADDED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml:11:5-26:19
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Nagendra\.android\build-cache\45f484e592a63a89db37646aada791b6c97871ef\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Nagendra\.android\build-cache\cc309ca492ed756ed57d8e44e353fb79377552d9\output\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Nagendra\.android\build-cache\402cecae94f73e9af8cb1baa183968ca9bd97a75\output\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-core:9.2.1] C:\Users\Nagendra\.android\build-cache\3079d1e2096418d15a56e70c34cc1ad94684bcf8\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Nagendra\.android\build-cache\f7a9ac12dfb570a8ad063e199fa2e94b1f8b0a01\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Nagendra\.android\build-cache\e81ebacca197aa1460d7266e536977e83d85d8a8\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Nagendra\.android\build-cache\b636b35212ddbc28bfe90da787a9408ad11e0f59\output\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] C:\Users\Nagendra\.android\build-cache\bf7f9dc7b504621a88f1185ef41aa9196fdca846\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Nagendra\.android\build-cache\e279411e0c4acc4c55d3865a8411d8502cf0676a\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Nagendra\.android\build-cache\da297b04c15a0ded9b88e41138a9d8547cd59679\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.login_signup_screendesign_demo.MainActivity
+ADDED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml:18:13-45
+	android:exported
+		ADDED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml:17:13-75
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Nagendra\Documents\porj_ui\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Nagendra\.android\build-cache\cc309ca492ed756ed57d8e44e353fb79377552d9\output\AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Nagendra\.android\build-cache\cc309ca492ed756ed57d8e44e353fb79377552d9\output\AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Nagendra\.android\build-cache\cc309ca492ed756ed57d8e44e353fb79377552d9\output\AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Nagendra\.android\build-cache\cc309ca492ed756ed57d8e44e353fb79377552d9\output\AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Nagendra\.android\build-cache\cc309ca492ed756ed57d8e44e353fb79377552d9\output\AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Nagendra\.android\build-cache\cc309ca492ed756ed57d8e44e353fb79377552d9\output\AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Nagendra\.android\build-cache\cc309ca492ed756ed57d8e44e353fb79377552d9\output\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Nagendra\.android\build-cache\cc309ca492ed756ed57d8e44e353fb79377552d9\output\AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Nagendra\.android\build-cache\cc309ca492ed756ed57d8e44e353fb79377552d9\output\AndroidManifest.xml:29:13-58
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Nagendra\.android\build-cache\402cecae94f73e9af8cb1baa183968ca9bd97a75\output\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Nagendra\.android\build-cache\402cecae94f73e9af8cb1baa183968ca9bd97a75\output\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Nagendra\.android\build-cache\402cecae94f73e9af8cb1baa183968ca9bd97a75\output\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.2.1] C:\Users\Nagendra\.android\build-cache\402cecae94f73e9af8cb1baa183968ca9bd97a75\output\AndroidManifest.xml:20:19-85
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Nagendra\.android\build-cache\f7a9ac12dfb570a8ad063e199fa2e94b1f8b0a01\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Nagendra\.android\build-cache\e81ebacca197aa1460d7266e536977e83d85d8a8\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Nagendra\.android\build-cache\f7a9ac12dfb570a8ad063e199fa2e94b1f8b0a01\output\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Nagendra\.android\build-cache\f7a9ac12dfb570a8ad063e199fa2e94b1f8b0a01\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Nagendra\.android\build-cache\e81ebacca197aa1460d7266e536977e83d85d8a8\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Nagendra\.android\build-cache\f7a9ac12dfb570a8ad063e199fa2e94b1f8b0a01\output\AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Nagendra\.android\build-cache\f7a9ac12dfb570a8ad063e199fa2e94b1f8b0a01\output\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Nagendra\.android\build-cache\e81ebacca197aa1460d7266e536977e83d85d8a8\output\AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Nagendra\.android\build-cache\f7a9ac12dfb570a8ad063e199fa2e94b1f8b0a01\output\AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Nagendra\.android\build-cache\f7a9ac12dfb570a8ad063e199fa2e94b1f8b0a01\output\AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Nagendra\.android\build-cache\f7a9ac12dfb570a8ad063e199fa2e94b1f8b0a01\output\AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Nagendra\.android\build-cache\f7a9ac12dfb570a8ad063e199fa2e94b1f8b0a01\output\AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Nagendra\.android\build-cache\f7a9ac12dfb570a8ad063e199fa2e94b1f8b0a01\output\AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Nagendra\.android\build-cache\f7a9ac12dfb570a8ad063e199fa2e94b1f8b0a01\output\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Nagendra\.android\build-cache\e81ebacca197aa1460d7266e536977e83d85d8a8\output\AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Nagendra\.android\build-cache\f7a9ac12dfb570a8ad063e199fa2e94b1f8b0a01\output\AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Nagendra\.android\build-cache\f7a9ac12dfb570a8ad063e199fa2e94b1f8b0a01\output\AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Nagendra\.android\build-cache\f7a9ac12dfb570a8ad063e199fa2e94b1f8b0a01\output\AndroidManifest.xml:37:11-82
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Nagendra\.android\build-cache\7f99d9b40c0b0d3c59e1702ed58048a18808b398\output\AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Nagendra\.android\build-cache\b636b35212ddbc28bfe90da787a9408ad11e0f59\output\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Nagendra\.android\build-cache\b636b35212ddbc28bfe90da787a9408ad11e0f59\output\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Nagendra\.android\build-cache\b636b35212ddbc28bfe90da787a9408ad11e0f59\output\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Nagendra\.android\build-cache\b636b35212ddbc28bfe90da787a9408ad11e0f59\output\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Nagendra\.android\build-cache\b636b35212ddbc28bfe90da787a9408ad11e0f59\output\AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Nagendra\.android\build-cache\e279411e0c4acc4c55d3865a8411d8502cf0676a\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Nagendra\.android\build-cache\e279411e0c4acc4c55d3865a8411d8502cf0676a\output\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Nagendra\.android\build-cache\e279411e0c4acc4c55d3865a8411d8502cf0676a\output\AndroidManifest.xml:22:13-58

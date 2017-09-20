@@ -1,0 +1,843 @@
+[
+    {
+        "outputFile": "C:\\Users\\Nagendra\\Documents\\porj_ui\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ko\\values-ko.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 94,
+                    "endOffset": 195
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\45f484e592a63a89db37646aada791b6c97871ef\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 94,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 200,
+                    "endColumn": 93,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\45f484e592a63a89db37646aada791b6c97871ef\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 93,
+                        "endOffset": 475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 294,
+                    "endColumn": 101,
+                    "endOffset": 391
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\45f484e592a63a89db37646aada791b6c97871ef\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endColumn": 101,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 396,
+                    "endColumn": 81,
+                    "endOffset": 473
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\45f484e592a63a89db37646aada791b6c97871ef\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 81,
+                        "endOffset": 659
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 478,
+                    "endColumn": 97,
+                    "endOffset": 571
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\45f484e592a63a89db37646aada791b6c97871ef\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 664,
+                        "endColumn": 97,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 576,
+                    "endColumn": 105,
+                    "endOffset": 677
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\45f484e592a63a89db37646aada791b6c97871ef\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 105,
+                        "endOffset": 863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 682,
+                    "endColumn": 97,
+                    "endOffset": 775
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\45f484e592a63a89db37646aada791b6c97871ef\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 868,
+                        "endColumn": 97,
+                        "endOffset": 961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 780,
+                    "endColumn": 94,
+                    "endOffset": 870
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\45f484e592a63a89db37646aada791b6c97871ef\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 966,
+                        "endColumn": 94,
+                        "endOffset": 1056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endColumn": 94,
+                    "endOffset": 965
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\45f484e592a63a89db37646aada791b6c97871ef\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1061,
+                        "endColumn": 94,
+                        "endOffset": 1151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 970,
+                    "endColumn": 99,
+                    "endOffset": 1065
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\45f484e592a63a89db37646aada791b6c97871ef\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1156,
+                        "endColumn": 99,
+                        "endOffset": 1251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1070,
+                    "endColumn": 95,
+                    "endOffset": 1161
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\45f484e592a63a89db37646aada791b6c97871ef\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1256,
+                        "endColumn": 95,
+                        "endOffset": 1347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1166,
+                    "endColumn": 98,
+                    "endOffset": 1260
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\45f484e592a63a89db37646aada791b6c97871ef\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1352,
+                        "endColumn": 98,
+                        "endOffset": 1446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1265,
+                    "endColumn": 114,
+                    "endOffset": 1375
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\45f484e592a63a89db37646aada791b6c97871ef\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1451,
+                        "endColumn": 114,
+                        "endOffset": 1561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1380,
+                    "endColumn": 210,
+                    "endOffset": 1586
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 210,
+                        "endOffset": 535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1591,
+                    "endColumn": 118,
+                    "endOffset": 1705
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 540,
+                        "endColumn": 118,
+                        "endOffset": 654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1710,
+                    "endColumn": 170,
+                    "endOffset": 1876
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endColumn": 170,
+                        "endOffset": 825
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1881,
+                    "endColumn": 117,
+                    "endOffset": 1994
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 830,
+                        "endColumn": 117,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1999,
+                    "endColumn": 119,
+                    "endOffset": 2114
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 948,
+                        "endColumn": 119,
+                        "endOffset": 1063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2119,
+                    "endColumn": 181,
+                    "endOffset": 2296
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1068,
+                        "endColumn": 181,
+                        "endOffset": 1245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2301,
+                    "endColumn": 181,
+                    "endOffset": 2478
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1250,
+                        "endColumn": 181,
+                        "endOffset": 1427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2483,
+                    "endColumn": 118,
+                    "endOffset": 2597
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1432,
+                        "endColumn": 118,
+                        "endOffset": 1546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2602,
+                    "endColumn": 144,
+                    "endOffset": 2742
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1551,
+                        "endColumn": 144,
+                        "endOffset": 1691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2747,
+                    "endColumn": 118,
+                    "endOffset": 2861
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1696,
+                        "endColumn": 118,
+                        "endOffset": 1810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2866,
+                    "endColumn": 142,
+                    "endOffset": 3004
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1815,
+                        "endColumn": 142,
+                        "endOffset": 1953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3009,
+                    "endColumn": 113,
+                    "endOffset": 3118
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1958,
+                        "endColumn": 113,
+                        "endOffset": 2067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3123,
+                    "endColumn": 123,
+                    "endOffset": 3242
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2072,
+                        "endColumn": 123,
+                        "endOffset": 2191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3247,
+                    "endColumn": 162,
+                    "endOffset": 3405
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2196,
+                        "endColumn": 162,
+                        "endOffset": 2354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3410,
+                    "endColumn": 135,
+                    "endOffset": 3541
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2359,
+                        "endColumn": 135,
+                        "endOffset": 2490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3546,
+                    "endColumn": 136,
+                    "endOffset": 3678
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2495,
+                        "endColumn": 136,
+                        "endOffset": 2627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3683,
+                    "endColumn": 118,
+                    "endOffset": 3797
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2632,
+                        "endColumn": 118,
+                        "endOffset": 2746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3802,
+                    "endColumn": 150,
+                    "endOffset": 3948
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2751,
+                        "endColumn": 150,
+                        "endOffset": 2897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3953,
+                    "endColumn": 113,
+                    "endOffset": 4062
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2902,
+                        "endColumn": 113,
+                        "endOffset": 3011
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4067,
+                    "endColumn": 198,
+                    "endOffset": 4261
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\e279411e0c4acc4c55d3865a8411d8502cf0676a\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 330,
+                        "endColumn": 198,
+                        "endOffset": 524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4266,
+                    "endColumn": 199,
+                    "endOffset": 4461
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3016,
+                        "endColumn": 199,
+                        "endOffset": 3211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4466,
+                    "endColumn": 118,
+                    "endOffset": 4580
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3216,
+                        "endColumn": 118,
+                        "endOffset": 3330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4585,
+                    "endColumn": 104,
+                    "endOffset": 4685
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3335,
+                        "endColumn": 104,
+                        "endOffset": 3435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4690,
+                    "endColumn": 166,
+                    "endOffset": 4852
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3440,
+                        "endColumn": 166,
+                        "endOffset": 3602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4857,
+                    "endColumn": 119,
+                    "endOffset": 4972
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 3607,
+                        "endColumn": 119,
+                        "endOffset": 3722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4977,
+                    "endColumn": 176,
+                    "endOffset": 5149
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 3727,
+                        "endColumn": 176,
+                        "endOffset": 3899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 5154,
+                    "endColumn": 123,
+                    "endOffset": 5273
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 3904,
+                        "endColumn": 123,
+                        "endOffset": 4023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 5278,
+                    "endColumn": 148,
+                    "endOffset": 5422
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4028,
+                        "endColumn": 148,
+                        "endOffset": 4172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 5427,
+                    "endColumn": 88,
+                    "endOffset": 5511
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4177,
+                        "endColumn": 88,
+                        "endOffset": 4261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 5516,
+                    "endColumn": 87,
+                    "endOffset": 5599
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 4266,
+                        "endColumn": 87,
+                        "endOffset": 4349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 5604,
+                    "endColumn": 103,
+                    "endOffset": 5703
+                },
+                "from": {
+                    "file": "C:\\Users\\Nagendra\\.android\\build-cache\\402cecae94f73e9af8cb1baa183968ca9bd97a75\\output\\res\\values-ko\\values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 4354,
+                        "endColumn": 103,
+                        "endOffset": 4453
+                    }
+                }
+            }
+        ]
+    }
+]
